@@ -6,9 +6,9 @@ A modern **MERN Stack School ERP (Enterprise Resource Planning) System** built t
 
 ## 🌐 Live Demo
 
-**Frontend:** https://your-vercel-link.vercel.app
+**Frontend:** https://student-erp-jet.vercel.app
 
-**Backend API:** https://your-render-link.onrender.com
+**Backend API:** https://student-erp-server-a2po.onrender.com
 
 ---
 
@@ -270,11 +270,6 @@ http://localhost:5173
 
 
 Update the following environment variables before deployment:
-
-```env
-CLIENT_URL=https://your-frontend-url.vercel.app
-VITE_API_URL=https://your-backend-url.onrender.com/api
-```
 
 ---
 
