@@ -28,7 +28,7 @@ A modern **MERN Stack School ERP (Enterprise Resource Planning) System** built t
 
 ### 👨‍🎓 Student Management
 
-![Students](screenshots/students.png)
+![Students](screenshots/student.png)
 
 ---
 
@@ -46,7 +46,7 @@ A modern **MERN Stack School ERP (Enterprise Resource Planning) System** built t
 
 ### 🗓️ Timetable Management
 
-![Timetable](screenshots/timetable.png)
+![Timetable](screenshots/time-table.png)
 
 ---
 
@@ -58,25 +58,25 @@ A modern **MERN Stack School ERP (Enterprise Resource Planning) System** built t
 
 ### 📝 Sessional Marks
 
-![Sessional Marks](screenshots/sessional-marks.png)
+![Sessional Marks](screenshots/marks.png)
 
 ---
 
 ### 📢 Notices
 
-![Notices](screenshots/notices.png)
+![Notices](screenshots/notice.png)
 
 ---
 
 ### 📚 Assignments & Papers
 
-![Assignments](screenshots/assignments.png)
+![Assignments](screenshots/assignment-papers.png)
 
 ---
 
 ### 👨‍🏫 Staff Management
 
-![Staff](screenshots/staff.png)
+![Staff](screenshots/staff-management.png)
 
 ---
 
@@ -94,13 +94,13 @@ A modern **MERN Stack School ERP (Enterprise Resource Planning) System** built t
 
 ### 🧾 Exam Schedule
 
-![Exam Schedule](screenshots/exam-schedule.png)
+![Exam Schedule](screenshots/exam.png)
 
 ---
 
 ### 🎯 Academic Results
 
-![Academic Results](screenshots/academic-results.png)
+![Academic Results](screenshots/results.png)
 
 ---
 
