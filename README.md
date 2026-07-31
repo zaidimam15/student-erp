@@ -100,7 +100,7 @@ A modern **MERN Stack School ERP (Enterprise Resource Planning) System** built t
 
 ### 🎯 Academic Results
 
-![Academic Results](screenshots/results.png)
+![Academic Results](screenshots/result.png)
 
 ---
 
